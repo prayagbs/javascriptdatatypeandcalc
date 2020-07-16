@@ -1,0 +1,8 @@
+Data Types
+ var x = ‘Hello World’;---------------- String
+ var x = 25; ----------------------------- Number
+ var x = true; --------------------------- Boolean
+ var x = [“HTML”,”CSS”,”JS”]; ----- Array
+ var x = {first:”Jane”, last:”Doe”}; - Object
+ var x = null; --------------------------- Null
+ var x; ----------------------------------- Undefined
